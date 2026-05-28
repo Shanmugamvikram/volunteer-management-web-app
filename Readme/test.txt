@@ -1,0 +1,50 @@
+# Volunteer Registry System
+
+## Overview
+A modern volunteer management web application built using HTML, CSS, and JavaScript.
+
+The system allows organizations to register volunteers, manage records, search volunteer history, and export data.
+
+## Features
+- Volunteer Registration
+- Search & Filter
+- Sort Volunteers
+- Export CSV
+- Export JSON
+- Local Storage Support
+- Responsive Design
+- Popup Detail View
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- LocalStorage API
+
+## Functionalities
+- Add volunteers
+- Delete volunteers
+- Search volunteers
+- Store records locally
+- Export volunteer data
+
+## Screenshots
+
+### Home Page
+![Home](screenshots/home-page.png)
+
+### Volunteer History
+![History](screenshots/volunteer-list.png)
+
+### Popup View
+![Popup](screenshots/popup-view.png)
+
+## Future Improvements
+- Database Integration
+- Login Authentication
+- Cloud Storage
+- Admin Dashboard
+- Email Notifications
+
+## Project Type
+Frontend Web Application
